@@ -1,2 +1,1 @@
-# HENRY
-Mod 2 del Prep Course
+este proyecto es un tutorial
